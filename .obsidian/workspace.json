@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "86ba3b0c5b1f7ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1a8e44c4937899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be7623b82aaaf386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отладка/Чеклист.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7296f6dd4fa00aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5004286d0f58ebf4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "draft/Excalidraw/point-intersection-mistake.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acdce218327f9ffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f4a9c478028c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bbfc03681a92a91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e56cba817140ed19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#optimization",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f83b49b6346d795",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "200de49c2a9cdf20",
+    "type": "split",
+    "children": [
+      {
+        "id": "146a48b0342af808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcbfb297c3f279ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d104a9e9ab023112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc1120164e076860",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "537412aad0b0dafe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "51c6a8315e4f915b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "02ce9afa94264a72",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "537412aad0b0dafe",
+  "lastOpenFiles": [
+    "2024-07-23.md",
+    "Тестирование/Типичные ошибки/Недопонимание проекта.md",
+    "draft",
+    "Тестирование/Типичные ошибки/Где больше всего ошибок?.md",
+    "Тестирование/Типичные ошибки",
+    "Тестирование/Классы плохих данных.md",
+    "Тестирование/Граничные условия.md",
+    "Тестирование/Базисное тестирование.md",
+    "draft/code.png",
+    "Отладка/Научный метод.md",
+    "Отладка/Антисоветы/Поиск багов гаданием.md",
+    "Отладка/Антисоветы/Анализ - потеря времени.md",
+    "Мои ошибки/Один класс - разные состояния.md",
+    "Отладка/Чеклист.md",
+    "draft/Excalidraw/point-intersection-mistake.excalidraw.md",
+    "draft/Excalidraw",
+    "Мои ошибки",
+    "Отладка/Может вы не знаете свой код.md",
+    "Тестирование/Частые ошибки.md",
+    "Тестирование/Тестирование и качество ПО.md",
+    "Тестирование/Тест это не панацея.md",
+    "Тестирование/На надейтесь.md",
+    "Отладка/Антисоветы",
+    "Отладка",
+    "Организация порядка кода/Произвольный порядок операции.md",
+    "Классы/АДТ.md",
+    "Оптимизация/Точки оптимизации.md",
+    "Классы",
+    "Чистая архитектура важнее.md",
+    "Оптимизация/Сначала закончите.md",
+    "Оптимизация/Чистая архитектура важнее.md",
+    "Организация порядка кода/Последовательный порядок операции.md",
+    "Условные выражения/Тест на else.md",
+    "Условные выражения/Нормальный вариант в if.md",
+    "Условные выражения",
+    "Организация порядка кода",
+    "Тестирование"
+  ]
+}
