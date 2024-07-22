@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "537412aad0b0dafe",
+  "active": "02ce9afa94264a72",
   "lastOpenFiles": [
     "2024-07-23.md",
     "Тестирование/Типичные ошибки/Недопонимание проекта.md",
